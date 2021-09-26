@@ -1,0 +1,59 @@
+a{
+    color: rgb(236, 131, 149) !important;
+    font-weight: bold;
+}
+a:hover{
+    color:rgb(202, 41, 68) !important;
+}
+.img-curve{
+    border-radius: 5%;
+}
+.pad{
+    padding-top: 1% !important;
+}
+/*food search*/
+.btn1{
+    padding: 1%;
+    border: none;
+    font-size: 100%;
+    border-radius: 5px;
+}
+.btn-primary{
+    background-color: #ff6b81;
+    color: white;
+    cursor: pointer;
+}
+.food-search{
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 7% 0;
+}
+.food-search input[type="search"]{
+    width: 50%;
+    padding: 1%;
+    font-size: 100%;
+    border: none;
+    border-radius: 5px;
+}
+/*explore food*/
+.bg{
+    background-color:rgb(218, 218, 218);
+}
+.left{
+    padding-left: 100px;
+}
+/*social*/
+.social ul li{
+    list-style-type: none;
+    display: inline;
+    padding: 1%;
+}
+/*menuphp*/
+.left-l{
+    padding-left: 200px;
+}
+.left-r{
+    padding-left: 100px;
+}
